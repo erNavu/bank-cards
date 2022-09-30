@@ -1,0 +1,29 @@
+.App{
+    margin: 20px;
+}
+
+button{
+    cursor: pointer;
+}
+.home{
+    .newCard{
+        text-align: center;
+        .brandName{
+            padding: 24px;
+        }
+        .addBtn{
+            width: 120px ;
+            padding: 12px;
+            border-radius: 24px;
+            border: 1px solid rgb(122, 174, 230);
+            color: #fefefe;
+            background-color: rgb(122, 174, 230) ;
+            font-weight: 600;
+            &:hover{
+              color: rgb(6, 87, 174);
+            }
+    }
+
+   
+}
+}
