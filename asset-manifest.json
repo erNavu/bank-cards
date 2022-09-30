@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/bank-cards/static/css/main.f22bdedc.css",
+    "main.js": "/bank-cards/static/js/main.56587a3b.js",
+    "static/js/787.4c62a861.chunk.js": "/bank-cards/static/js/787.4c62a861.chunk.js",
+    "static/media/logo.png": "/bank-cards/static/media/logo.67be1e2040e4d0884c09.png",
+    "static/media/brandLogo.png": "/bank-cards/static/media/brandLogo.d92519252b3e7e674b26.png",
+    "index.html": "/bank-cards/index.html",
+    "main.f22bdedc.css.map": "/bank-cards/static/css/main.f22bdedc.css.map",
+    "main.56587a3b.js.map": "/bank-cards/static/js/main.56587a3b.js.map",
+    "787.4c62a861.chunk.js.map": "/bank-cards/static/js/787.4c62a861.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f22bdedc.css",
+    "static/js/main.56587a3b.js"
+  ]
+}
